@@ -1,5 +1,4 @@
-# 🚀 Mission Readiness & Predictive Maintenance
-Copilot
+# 🚀 Mission Readiness & Predictive Maintenance Copilot
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
