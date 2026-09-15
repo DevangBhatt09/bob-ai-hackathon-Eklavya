@@ -10,7 +10,7 @@
 
 team:
   name: "Eklavya"                             # REQUIRED — e.g., "Orion Squad"
-  track: "Defense & Aerospace"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
+  track: "Sustainability"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Hitansh Parikh"                           # REQUIRED — e.g., "Alice Chen"
     email: "23cs054@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
