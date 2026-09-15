@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | Eklavya |
+| **Track** | Sustainability |
+| **Team Lead** | Hitansh Parikh — 23cs054@charusat.edu.in |
+| **Members** | Devang Bhatt, Pankti Akbari, Gunja Bhatt |
 
 ---
 
